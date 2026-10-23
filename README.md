@@ -46,8 +46,11 @@ I turn raw data into clear business insights using **SQL, Power BI, Excel and Py
 | **Egg Diary** | Simple web app to track daily egg collection, sales and totals for a family chicken farm. | JavaScript |
 
 > https://github.com/Safaet61-bot/Urban-Cart-
+
 https://github.com/Safaet61-bot/rmg-production-powerbi-dashboard
+
 https://github.com/Safaet61-bot/excel-hr-dashboard
+
 https://github.com/Safaet61-bot/Reatil_Sale_Dashboard
 
 
