@@ -45,7 +45,12 @@ I turn raw data into clear business insights using **SQL, Power BI, Excel and Py
 | **Online Banking Dashboard** | Power BI dashboard visualizing SQL data with dynamic charts, tables and filters. | Power BI, SQL |
 | **Egg Diary** | Simple web app to track daily egg collection, sales and totals for a family chicken farm. | JavaScript |
 
-> 📌 Add links to each repository here once they are uploaded to my GitHub.
+> https://github.com/Safaet61-bot/Urban-Cart-
+https://github.com/Safaet61-bot/rmg-production-powerbi-dashboard
+https://github.com/Safaet61-bot/excel-hr-dashboard
+https://github.com/Safaet61-bot/Reatil_Sale_Dashboard
+
+
 
 ## 📄 Publications
 
