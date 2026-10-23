@@ -60,7 +60,7 @@ I turn raw data into clear business insights using **SQL, Power BI, Excel and Py
 
 ## 📫 Let's Connect
 
-- 🔗 LinkedIn: *(add your LinkedIn link)*
+- 🔗 LinkedIn: *www.linkedin.com/in/md-safaet-zahangir*
 - 🌐 Portfolio: *https://safaet61-bot.github.io/portfolio1/*
 - ✉️ Email: *safaetanuvob61@gmail.com*
 
