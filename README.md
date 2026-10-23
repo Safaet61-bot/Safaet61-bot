@@ -61,8 +61,8 @@ I turn raw data into clear business insights using **SQL, Power BI, Excel and Py
 ## 📫 Let's Connect
 
 - 🔗 LinkedIn: *(add your LinkedIn link)*
-- 🌐 Portfolio: *(add your portfolio link)*
-- ✉️ Email: *(add a personal email that will stay active)*
+- 🌐 Portfolio: *https://safaet61-bot.github.io/portfolio1/*
+- ✉️ Email: *safaetanuvob61@gmail.com*
 
 ## 📊 GitHub Stats
 
